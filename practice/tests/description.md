@@ -1,0 +1,1 @@
+This directory serves as the code to automatically test any solution attempts in the problems directory. Valid solutions to all problems are also included in the solutions directory.
